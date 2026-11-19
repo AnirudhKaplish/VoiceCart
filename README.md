@@ -1,5 +1,7 @@
 # VoiceCart — Voice Command Shopping Assistant
 
+**Live demo:** https://anirudhkaplish.github.io/VoiceCart/
+
 > **"Just say what you need."**  
 > A voice-first consumer grocery shopping application built with Next.js 16, TypeScript, Tailwind CSS, and the Web Speech API.
 
